@@ -30,6 +30,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  align-items: center;
   background-color: var(--very-dark-blue);
   min-width: 375px;
 }
